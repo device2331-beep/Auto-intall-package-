@@ -2,7 +2,7 @@
 
 একটি অটোমেটেড Bash স্ক্রিপ্ট যা Termux-এ প্রয়োজনীয় সব ডেভেলপমেন্ট টুলস ও প্যাকেজ এক ক্লিকেই ইনস্টল করে দেয়।
 
-🔗 **GitHub Repo:** https://github.com/device2331-beep/Auto-intall-package-.git
+🔗 **GitHub Repo:** https://github.com/device2331-beep/Auto-intall.git
 
 ---
 
